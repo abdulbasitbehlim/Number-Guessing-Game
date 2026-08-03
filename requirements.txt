@@ -1,0 +1,4 @@
+# This project uses only Python standard library.
+# No external packages are required.
+
+# Python 3.6+ is recommended.
