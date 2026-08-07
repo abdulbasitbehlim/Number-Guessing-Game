@@ -32,7 +32,7 @@ You have to guess the number, and the game will guide you with "Higher" or "Lowe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/YourRepoName.git
+   git clone https://github.com/abdulbasitbehlim/YourRepoName.git
    cd YourRepoName
    ```
 
