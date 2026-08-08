@@ -32,8 +32,8 @@ You have to guess the number, and the game will guide you with "Higher" or "Lowe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abdulbasitbehlim/YourRepoName.git
-   cd YourRepoName
+   git clone https://github.com/abdulbasitbehlim/Number-Guessing-Game.git
+   cd Number-Guessing-Game
    ```
 
 2. Run the game:
